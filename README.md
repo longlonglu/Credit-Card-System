@@ -1,5 +1,6 @@
 
 # Integration of Credit card system and Online shopping system
+# This project is made by gonese carmichael901230 and Longlong Lu
 
 ### This repo is for education and non-profitable purpose ONLY
 
